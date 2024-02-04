@@ -1,6 +1,6 @@
 STSNet
 
-The codes for the work "STSNet
+The codes for the work "STSNet: A Novel Framework for Segmentation of Small Targets in Medical Images"
 :
 
 1. Prepare data
